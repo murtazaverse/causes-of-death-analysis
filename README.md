@@ -1,6 +1,6 @@
 # CAUSES OF DEATH ANALYSIS
 
-This project was created as a part of my course, Research Software Engineering, at the University of Potsdam. The project aims to analyze the causes of death dataset to gain insights into mortality patterns across different age groups and genders. Understanding the leading causes of death is valuable for public health priorities, disease prevention strategies, and healthcare resource allocation. By analyzing this dataset, we can identify trends, disparities, and potential areas for intervention to improve population health outcomes.
+The project aims to analyze the causes of death dataset to gain insights into mortality patterns across different age groups and genders. Understanding the leading causes of death is valuable for public health priorities, disease prevention strategies, and healthcare resource allocation. By analyzing this dataset, we can identify trends, disparities, and potential areas for intervention to improve population health outcomes.
 
 ## Table of Contents
 1. [Problem Description](#problem-description)
