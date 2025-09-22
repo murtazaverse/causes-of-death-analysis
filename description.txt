@@ -1,0 +1,4 @@
+Description:
+The dataset titled "CausesOfDeathDataset.xlsx - 23211-0004.csv" consists of information on causes of death, categorized by year, age groups, and gender. It includes data for both males and females across various age brackets, starting from under 1 year old to 85 years and over. The causes of death are specified, such as certain infectious and parasitic diseases, tuberculosis, meningococcal infection, viral hepatitis, HIV disease, neoplasms (including malignant neoplasms), and more.
+
+The dataset provides a comprehensive overview of mortality patterns for different causes of death over a specific year (2010, in this case). The number of deaths is reported for each age group and gender, allowing for a detailed analysis of mortality rates and distributions across different population segments.
